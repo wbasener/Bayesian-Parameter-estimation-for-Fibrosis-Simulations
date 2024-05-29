@@ -1,4 +1,6 @@
 # Bayesian-Parameter-estimation-for-Fibrosis-Simulations
+Code by William Basener and Julie Leonard-Duke
+
 Bayesian estimation of probability distributions for parameters in IPF models using NetLogo.
 
 This code requires NetLogo (https://ccl.northwestern.edu/netlogo/) is installed. It is compatable with version 6.2.1.
