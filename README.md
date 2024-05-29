@@ -7,7 +7,7 @@ x0 = coefficient for collagen deposition
 
 x1 = coefficient for collagen degradation
 
-x2 = transiion threshold (between THY1+ and THY1-)
+x2 = transition threshold (between Thy1+ and Thy1-)
 
 ![image](https://github.com/wbasener/Fibrosis-Simulations/assets/51686251/c21f9f77-0410-424e-8461-0522b62c9b18)
 
