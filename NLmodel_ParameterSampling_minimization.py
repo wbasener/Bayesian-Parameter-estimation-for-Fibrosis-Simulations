@@ -12,14 +12,18 @@ from scipy.stats import chi2_contingency
 from typing import List
 import time
 
+import skopt
 from skopt import BayesSearchCV
 from skopt import forest_minimize
 from skopt import gp_minimize
 from skopt.plots import plot_objective
+print(f'skopt version: {skopt.__version__}')
 
+import sklearn
 from sklearn.datasets import load_digits
 from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
+print(f'sklearn version: {sklearn.__version__}')
 
 
 class simulation:
